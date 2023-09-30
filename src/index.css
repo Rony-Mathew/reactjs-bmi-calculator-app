@@ -1,0 +1,110 @@
+body {
+  background-color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bmi-main {
+  background-color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  height: 350px;
+  width: 400px;
+  flex-direction: column;
+  margin-top: 100px;
+  border: 5px solid #343148FF;
+}
+
+.bmi-sec {
+  background-color: #D7C49EFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  height: 300px;
+  width: 400px;
+  margin-top: 5px;
+  flex-direction: column;
+  padding-bottom: 5px;
+  
+}
+
+.bmi-value {
+  color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 50px;
+  font-size: large;
+}
+
+.height-sec {
+  color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+.height-input {
+  color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 7px;
+  margin-left: 10px;
+}
+
+.weight-sec {
+  color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.weight-input {
+  color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 7px;
+  margin-left: 10px;
+}
+
+.button {
+  background-color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  height: 50px;
+  width: 150px;
+  color: #D7C49EFF;
+  font-size: 17px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-right: 30px;
+  flex-direction: column;
+}
+
+.input-val {
+  color: #343148FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-direction: column;
+}
+
+.bmi-status {
+  font-size: 20px;
+}
